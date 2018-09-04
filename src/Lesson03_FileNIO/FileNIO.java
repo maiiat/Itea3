@@ -18,6 +18,7 @@ public class FileNIO {
 		System.out.println(p2);
 		System.out.println(Files.exists(p2));
 		System.out.println("New comment");
+		System.out.println("New comment2");
 		
 		try {
 			//Files.copy(p1, p2);
