@@ -1,0 +1,29 @@
+2.5
+45 54
+65
+
+LH-28323 [NP] Home URL template is not applied for new platform games
+LH-26076 [iOS/Chrome] Swipe up does not work properly
+LH-28325 [DTL] Nickname is not highlighted in Chat
+LH-28326 [HUB][TRVL] Game layout is shifted to the right
+LH-28329 [Floating Lobby][BJL] Player is not able to scroll floating lobby in Portrait
+LH-28328 [ROL/ROFL][iPhoneX] Betting area is small in LM
+LH-28330 [UBJL] Error after Insurance attempt by player with insufficient balance
+LH-28338 [Old Platform][New Platform] Big tiles/Small tiles buttons are not highlighted on hover
+LH-28355 [New Platform] The Change button stop working after switching between the Big/Small tiles mode with an open Limits panel
+LH-28356 [ROL/ROFL][Mobile] Statistics sector is highlight with shifted on few pixels
+LH-28357 [NP] Player should be reconnected to game table in case of connection lost
+LH-28360 [HUB][BJL][iPhoneX] Bet value in footer is not visible fully in PM
+LH-28364 [BJL][HUB][iPhoneX] Help items is not display fully in LM
+LH-28368 [IOS][SWL] Appears swipe up during opening last item in help popup
+LH-28369 [HUB][iPhoneX][SWL] Player nickname is not visible fully after send message in chat popup
+LH-28161 [HUB/HUB Emulator][TRVL/ROL] Swipe up is shown on open chat
+LH-28372 [NP] Lobby content is not shown when flash game is launched
+1
+2
+3
+5
+6
+98
+
+45.5
